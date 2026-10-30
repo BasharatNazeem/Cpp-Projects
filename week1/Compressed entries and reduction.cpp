@@ -1,6 +1,4 @@
-/*
-Name: Basharat Nazeem       ERP: 35567        Section: 2:30 pm --- 5:15 pm
-*/
+
 #include<iostream>
 #include<iomanip>
 using namespace std;
